@@ -1,5 +1,9 @@
 ## Olá, Eu sou Victor Gabriel Ramos 👋
 
+Sou *Estudante* do Senai em Chapecó/SC no Curso de Desenvolvimento de Sistema
+
+
+
 <!--
 **VictorGabrielRamos2010/VictorGabrielRamos2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
